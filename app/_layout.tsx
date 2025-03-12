@@ -1,5 +1,6 @@
 import { Stack } from "expo-router";
 import { useFonts } from "expo-font";
+import "./global.css";
 
 export default function RootLayout() {
   useFonts({
@@ -10,6 +11,7 @@ export default function RootLayout() {
   return (
     <Stack screenOptions={{ headerShown: false }}>
       <Stack.Screen name="index" />
+      <Stack.Screen name="(tabs)" />
     </Stack>
   );
 }

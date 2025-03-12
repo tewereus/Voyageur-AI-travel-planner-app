@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ai-travel-planner",
-    "slug": "ai-travel-planner",
+    "name": "Voyageur",
+    "slug": "voyageur",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
