@@ -1,8 +1,8 @@
-# Welcome to your Expo app 👋
+### Voyageur AI Travel Planner App 🌍
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Voyageur is a mobile application designed to simplify travel planning by providing users with personalized itineraries, recommendations, and real-time updates. It leverages AI technology to enhance the travel experience, making it easier for users to explore new destinations.
 
-## Get started
+### 📸 Screenshots
 
 1. Install dependencies
 
