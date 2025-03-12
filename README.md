@@ -20,47 +20,64 @@ Voyageur is a mobile application designed to simplify travel planning by providi
 <img src="https://github.com/user-attachments/assets/c2712ceb-3e67-4045-821a-cbaae0e937f5" width="200" height="450" alt="Screenshot 17: Description of the seventeenth screenshot" />
 <img src="https://github.com/user-attachments/assets/5c90cb3f-4049-4c0f-9e2c-51ba76f45ba9" width="200" height="450" alt="Screenshot 16: Description of the sixteenth screenshot" />
 
-1. Install dependencies
+### 🚀 Features
+- ✅ Personalized Itineraries – Generate customized travel plans based on user preferences.
+- ✅ Advanced Search – search location using google places.
+- ✅ User Authentication – Secure registration and login for a personalized experience.
+- ✅ Real-Time Updates – Get live information on flights, accommodations, and local attractions.
 
-   ```bash
-   npm install
-   ```
+### 🛠 Technologies Used
 
-2. Start the app
+🔹 Mobile App and Backend:
 
-   ```bash
-    npx expo start
-   ```
+- React Native with expo – JavaScript library for building dynamic Mobile App
+- Expo Router – Client-side routing for seamless navigation
+- Context – State management
+- Firebase - Authentication and storage
 
-In the output, you'll find options to open the app in a
+🔹 Third Party APIs:
+- Gemini-1.5-flash: for AI integration
+- Foogle places: for search, location functionality
+- Pixabay: library of images
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
+### 📌 Getting Started
+1️⃣ Clone the Repository:
 ```
+git clone https://github.com/tewereus/voyageur-ai-travel-planner-app.git
+cd voyageur-ai-travel-planner
+```
+2️⃣ Install Dependencies
+```
+npm install
+```
+3️⃣ Set Up Environment Variables
+Create a .env file in the root directory.
+Add the required environment variables:
+```
+FIREBASE_API = ""
+FIREBASE_AUTHDOMAIN = ""
+FIREBASE_PROJECT_ID = ""
+FIREBASE_STORAGE_BUCKET = ""
+FIREBASE_MESSAGING_SENDER_ID = ""
+FIREBASE_APP_ID = ""
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+REACT_GEMINI_API_KEY = ''
+REACT_PIXABAY_API_KEY = ''
+REACT_MAPTILER_API_KEY = ''
+```
+4️⃣ Start the Development Server
+```
+npm start
+```
+The application will be accessible at your local development(Expo go or emulater)
 
-## Learn more
+### 🤝 Contributing
+Contributions are welcome! To contribute:
 
-To learn more about developing your project with Expo, look at the following resources:
+### 📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+### 📩 Contact
+📧 Email: tewereus12312@gmail.com
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+🔗 LinkedIn: www.linkedin.com/in/tewolde-gebreyesus-3434472b6
