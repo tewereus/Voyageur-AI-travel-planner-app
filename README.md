@@ -12,11 +12,11 @@ Voyageur is a mobile application designed to simplify travel planning by providi
 <img src="https://github.com/user-attachments/assets/f402d4c7-13b5-4272-a111-907237e047f1" width="200" height="450" alt="Screenshot 11: Description of the eleventh screenshot" />
 <img src="https://github.com/user-attachments/assets/430f0275-de2c-445b-8f22-edcb79b13c94" width="200" height="450" alt="Screenshot 23: Description of the twenty-third screenshot" />
 <img src="https://github.com/user-attachments/assets/5490cdfa-f357-4294-aeab-4fe6b80c8cb4" width="200" height="450" alt="Screenshot 24: Description of the twenty-fourth screenshot" />
-<img src="https://github.com/user-attachments/assets/dfff1498-f981-4d49-8273-8ef099456df6" width="200" height="450" alt="Screenshot 18: Description of the eighteenth screenshot" />
-<img src="https://github.com/user-attachments/assets/d5bf39fb-56e7-4509-acb5-447885c521af" width="200" height="450" alt="Screenshot 19: Description of the nineteenth screenshot" />
-<img src="https://github.com/user-attachments/assets/1b4f9ba0-6d2f-4209-873b-1a850ec8f95b" width="200" height="450" alt="Screenshot 20: Description of the twentieth screenshot" />
-<img src="https://github.com/user-attachments/assets/67fe90d7-fafd-4470-9981-7e91f6a6fb48" width="200" height="450" alt="Screenshot 21: Description of the twenty-first screenshot" />
 <img src="https://github.com/user-attachments/assets/1767b45a-ec4d-45ae-828b-39b766a205fe" width="200" height="450" alt="Screenshot 22: Description of the twenty-second screenshot" />
+<img src="https://github.com/user-attachments/assets/67fe90d7-fafd-4470-9981-7e91f6a6fb48" width="200" height="450" alt="Screenshot 21: Description of the twenty-first screenshot" />
+<img src="https://github.com/user-attachments/assets/1b4f9ba0-6d2f-4209-873b-1a850ec8f95b" width="200" height="450" alt="Screenshot 20: Description of the twentieth screenshot" />
+<img src="https://github.com/user-attachments/assets/d5bf39fb-56e7-4509-acb5-447885c521af" width="200" height="450" alt="Screenshot 19: Description of the nineteenth screenshot" />
+<img src="https://github.com/user-attachments/assets/dfff1498-f981-4d49-8273-8ef099456df6" width="200" height="450" alt="Screenshot 18: Description of the eighteenth screenshot" />
 <img src="https://github.com/user-attachments/assets/c2712ceb-3e67-4045-821a-cbaae0e937f5" width="200" height="450" alt="Screenshot 17: Description of the seventeenth screenshot" />
 <img src="https://github.com/user-attachments/assets/5c90cb3f-4049-4c0f-9e2c-51ba76f45ba9" width="200" height="450" alt="Screenshot 16: Description of the sixteenth screenshot" />
 
