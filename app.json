@@ -39,6 +39,7 @@
       "typedRoutes": true
     },
     "extra": {
+      "REACT_GEMINI_API_KEY": "AIzaSyCnq0PB0XJHLvxEDWImR5BUkokNQ2JrB3A",
       "router": {
         "origin": false
       },
